@@ -1,6 +1,6 @@
-# Medical Device Evidence And R&D Agent
+# Medical Device Regulatory Affairs And R&D Agent
 
-Medical Device Evidence And R&D Agent is a Codex skill for preparing traceable clinical evaluation and product development workpacks for medical devices. It supports CER/CEAR evidence, literature search strategy, clinical benefit extraction, adverse event analysis, comparator analysis, benefit-risk reasoning, user needs, design inputs and outputs, verification and validation planning, risk traceability, DHF readiness, and regulatory-style gap review.
+Medical Device Regulatory Affairs And R&D Agent is a Codex skill for preparing traceable clinical evaluation and product development workpacks for medical devices. It supports CER/CEAR evidence, literature search strategy, clinical benefit extraction, adverse event analysis, comparator analysis, benefit-risk reasoning, user needs, design inputs and outputs, verification and validation planning, risk traceability, DHF readiness, and regulatory-style gap review.
 
 This skill is designed for reviewer-ready evidence preparation and R&D documentation support, not for unsupported final regulatory, quality-system, or engineering release decisions. Human review remains required.
 
@@ -12,8 +12,19 @@ This skill is designed for reviewer-ready evidence preparation and R&D documenta
 - Comparing competitor devices, alternative materials, or standard of care
 - Drafting benefit-risk reasoning from structured evidence
 - Checking common MDR, MDCG, ASEAN CSDT, FDA public evidence, PMCF, and equivalence gaps
-- Translating clinical, user, competitor, and risk evidence into user needs and design inputs
-- Mapping design inputs to outputs, risk controls, verification, validation, and DHF gaps
+
+## R&D And Design Control Support
+
+Beyond CER evidence work, this skill also supports the full R&D and design-control documentation cycle:
+
+- Structuring R&D scope intake: device concept, development phase, intended use, and technical/clinical questions
+- Building an R&D source inventory across voice-of-customer, clinical evidence, design definition, and risk/quality documents
+- Translating clinical, user, competitor, and risk evidence into user needs and testable, traceable design inputs
+- Mapping design inputs to outputs (drawings, specs, software requirements, labeling, manufacturing process)
+- Integrating risk management: hazard identification, risk controls, and verification of control effectiveness
+- Separating verification (does the output meet the input) from validation (does the device meet the user need)
+- Using competitor and state-of-the-art evidence to inform design constraints and feature tradeoffs
+- Running a DHF readiness gap check across planning, inputs, outputs, risk links, reviews, V&V, and traceability
 - Preparing V&V plan outlines, design review questions, and requirements traceability matrices
 
 ## Skill Structure
