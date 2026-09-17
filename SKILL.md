@@ -1,5 +1,5 @@
 ---
-name: cer-evidence-agent
+name: medtech-ra-rd-agent
 description: Build traceable medical device clinical evaluation and R&D workpacks, including CER/CEAR evidence, literature search, adverse event analysis, comparator analysis, benefit-risk reasoning, user needs, design inputs and outputs, verification and validation planning, risk traceability, DHF readiness, and regulatory gap review. Use when the user is preparing or reviewing medical device CER, MDR clinical evaluation, PMCF evidence, design control documentation, R&D project evidence, or product development traceability.
 ---
 
